@@ -2,5 +2,5 @@
 
 <p> Fullstack Software Developer
 
-##Technical Skills
+## Technical Skills
 Typescript, Javascript, Ruby, Ruby on Rails, Sorbet, Jest, Git
